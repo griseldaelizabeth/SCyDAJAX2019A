@@ -1,0 +1,9 @@
+#menu li:hover {
+    font-weight: bold;
+    color: red;
+    cursor: pointer;
+}
+
+#menu li:active {
+    color: blue;
+}
